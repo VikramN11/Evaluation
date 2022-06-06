@@ -1,0 +1,25 @@
+/* Fill CSS here */
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: #0468aa;
+    text-decoration: underline;
+}
+div{
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+}
+form{
+    line-height: 30px;
+}
+form>input:last-child{
+    background-color: #0468aa;
+    border: 0px solid;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 65px 5px 65px;
+}
+thead{
+    background-color: #0468aa;
+}
